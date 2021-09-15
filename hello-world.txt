@@ -1,0 +1,2 @@
+Hello world from command line
+Hello world from command line v2.0
